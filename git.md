@@ -442,7 +442,5 @@ Depois de encontrar o commit com problema, para retornar para o *HEAD* utilize:
 	git bisect reset
  	
 
-# Contribuições
-
-Sinta-se a vontade para realizar adicionar mais informações ou realizar correções. Fork me!
+# Contribuições bem-vindas!
 
